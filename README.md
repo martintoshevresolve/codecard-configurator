@@ -39,7 +39,7 @@ Follow the below process to update your Code Card settings:
 
   1. Plug-in your Code Card using the provided USB connection
   2. Turn on the Code Card (i.e. via hardware power switch)
-  3. Launch the code-card-configurator.py script in a terminal session
+  3. Launch the codecard-configurator.py script in a terminal session
   4. Once prompted by the configurator - Press `Enter` to start the process
   5. Once the script is running: On your Code Card, perform simultaneous button 'A+B' shortpress  
      to boot the Code Card into `Configuration Mode`.
@@ -52,4 +52,4 @@ Follow the below process to update your Code Card settings:
 #### Resources:
 
  - https://developer.oracle.com/codecard
- - https://github.com/noelportugal/codecard
+ - https://github.com/cameronsenese/codecard
